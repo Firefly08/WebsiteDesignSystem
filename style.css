@@ -434,7 +434,7 @@ tr:nth-child(even) {
 th,
 tr,
 td {
-    font-size: 1.1rem;
+    font-size: 1rem;
     border: 1px solid black;
 }
 
@@ -448,4 +448,68 @@ td {
     background-color: #8ec0e2;
     cursor: pointer;
     font-weight: bold;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.tnr {
+    font-family: "Times New Roman";
+}
+
+.georgia {
+    font-family: Georgia;
+}
+
+.garamond {
+    font-family: "Garamond";
+}
+
+.arial {
+    font-family: Arial;
+}
+
+.verdana {
+    font-family: Verdana;
+}
+
+.helvetica {
+    font-family: Helvetica, sans-serif;
+}
+
+.couriernew {
+    font-family: 'Courier New';
+}
+
+.lc {
+    font-family: 'Lucinda Console';
+}
+
+.monaco {
+    font-family: 'Monaco';
+}
+
+.bsmt {
+    font-family: 'Brush Script MT';
+}
+
+.lh {
+    font-family: 'Lucinda Handwriting';
+}
+
+.cop {
+    font-family: 'Cooperplate';
+}
+
+.papyrus {
+    font-family: 'Papyrus';
 }

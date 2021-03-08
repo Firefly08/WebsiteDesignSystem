@@ -73,6 +73,10 @@ header li {
     .colorbox {
         margin: 0 !important;
     }
+    
+    .flexbox-center {
+    padding: 0 !important;
+}
 }
 
 nav {
